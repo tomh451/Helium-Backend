@@ -26,7 +26,6 @@ Compatible With Many Seasons! Season 1 chapter 1 To ≈ Chapter 4 Season OG, Cha
     * [x] refunds work using Tickets.
 * BattlePass (s2-s29):
     * [x] Purchaseable battlepass
-    * [x] 
 * Challenges (Backend Part):
     * [x] Daily missions worked.
     * [x] Working weekly missions.
