@@ -1,5 +1,5 @@
 # Helium-Backend
-A Powerful Open-Source Backend Made by Tomh451 In JS and Node js With a few other Languages!
+A Powerful Open-Source Backend Made by Tomh451 With Help From [Aorux01](https://github.com/Aorux01) In JS and Node js With a few other Languages!
 
 Compatible With Many Seasons! Season 1 chapter 1 To ≈ Chapter 4 Season OG, Chapter 5 season 2 Works but Very laggy, Help will not be provided for chapter 5 Seasons!
 
